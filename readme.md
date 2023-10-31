@@ -4,6 +4,8 @@
 
 This README provides a brief overview of the HTML code provided above, which is a sample internal memo web page.
 
+![memo web page](images/preview.png)
+
 ## HTML Structure
 - The HTML code starts with the usual `<!DOCTYPE html>` declaration to define the document type.
 - The document is written in English (`<html lang="en">`) and consists of a `<head>` and `<body>` section.
